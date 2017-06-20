@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:padding="2dp" >
+    android:layout_height="fill_parent">
 
     <ImageView
         android:id="@+id/produce_pics"
         android:layout_width="140dp"
         android:layout_height="140dp"
         android:contentDescription="desc"
+        android:layout_marginLeft="30dp"
         android:paddingLeft="10dp"
         android:paddingRight="10dp" />
 
@@ -16,7 +16,7 @@
         android:id="@+id/produce_names"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="50dp"
         android:layout_toRightOf="@+id/produce_pics"
         android:paddingBottom="10dp"
         android:text="txt"
