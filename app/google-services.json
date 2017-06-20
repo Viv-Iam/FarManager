@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "676440820028",
+    "firebase_url": "https://farmanager-10842.firebaseio.com",
+    "project_id": "farmanager-10842",
+    "storage_bucket": "farmanager-10842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676440820028:android:71651a352bd9f960",
+        "android_client_info": {
+          "package_name": "com.innovach.farmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676440820028-fmd715612ogi7lggsdrq75hquqts28if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovach.farmanager",
+            "certificate_hash": "b77c2577790e0a6bbb973f0ce30654a7fec03ccf"
+          }
+        },
+        {
+          "client_id": "676440820028-mgpn68qakauq1h8rdibi3mh459gljhnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26fpLKWyB5jLaSU0TsOVhpdwl1Xyq68Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676440820028-mgpn68qakauq1h8rdibi3mh459gljhnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
