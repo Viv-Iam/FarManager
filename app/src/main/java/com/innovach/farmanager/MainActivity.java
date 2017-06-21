@@ -11,7 +11,7 @@ import butterknife.ButterKnife;
 import com.innovach.farmanager.R;
 
 public class MainActivity extends AppCompatActivity {
-    @Bind(R.id.produce_btn) Button mProduce_btn;
+    @Bind(R.id.produce_btn) Button mProduce_bt;
     @Bind(R.id.disease_btn) Button mDisease_btn;
 
     @Override
