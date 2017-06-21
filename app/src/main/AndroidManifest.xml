@@ -20,7 +20,8 @@
         <activity android:name=".produce.details.OnionsActivity" />
         <activity android:name=".produce.details.MaizeActivity" />
         <activity android:name=".produce.details.PotatoesActivity" />
-        <activity android:name=".produce.details.FrenchBeansActivity"></activity>
+        <activity android:name=".produce.details.FrenchBeansActivity" />
+        <activity android:name=".ProduceActivity"></activity>
     </application>
 
 </manifest>
