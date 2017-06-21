@@ -21,7 +21,8 @@
         <activity android:name=".produce.details.MaizeActivity" />
         <activity android:name=".produce.details.PotatoesActivity" />
         <activity android:name=".produce.details.FrenchBeansActivity" />
-        <activity android:name=".ProduceActivity"></activity>
+        <activity android:name=".ProduceActivity" />
+        <activity android:name=".DiseaseActivity"></activity>
     </application>
 
 </manifest>
